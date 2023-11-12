@@ -1,0 +1,15 @@
+Recipes_FR = {
+	Recipe_Make_F350_Back_Windows = "Fabriquer Vitres arrières",
+	Recipe_Make_F350_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_F350_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_F350_Front_Side_Window = "Fabriquer Vitre latérale avant",
+	Recipe_Make_F350_Front_Side_Window_Armor = "Fabriquer Blindage de vitre latérale avant",
+	Recipe_Make_F350_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
+	Recipe_Make_F350_Rear_Side_Window_Armor = "Fabriquer Blindage de vitre latérale arrière",
+	Recipe_Make_F350_Reinforced_Front_Bumper = "Fabriquer Pare-chocs avant renforcé",
+	Recipe_Make_F350_Side_Steps = "Fabriquer Marches latérales",
+	Recipe_Make_F350_Tire = "Fabriquer Pneu",
+	Recipe_Make_F350_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_F350_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+	Recipe_Make_F350_Windshield_Rear_Armor = "Fabriquer Blindage de pare-brise arrière",
+}
