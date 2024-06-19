@@ -12,4 +12,18 @@ Recipes_FR = {
 	Recipe_Make_F350_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_F350_Windshield_Armor = "Fabriquer Blindage de pare-brise",
 	Recipe_Make_F350_Windshield_Rear_Armor = "Fabriquer Blindage de pare-brise arrière",
+
+	Recipe_Dismantle_90_Ford_F350_Armor = "Démonter Blindage",
+	Recipe_Dismantle_90_Ford_F350_Door = "Démonter Portière",
+	Recipe_Dismantle_90_Ford_F350_Double_Tires = "Démonter Pneus doubles",
+	Recipe_Dismantle_90_Ford_F350_Lid = "Démonter Coffre",
+	Recipe_Dismantle_90_Ford_F350_Seat = "Démonter Siège",
+	Recipe_Dismantle_90_Ford_F350_Tire = "Démonter Pneu",
+	Recipe_Dismantle_Ambulance_Stretcher = "Démonter Civière d'ambulance",
+	Recipe_Make_Ambulance_Stretcher = "Fabriquer Civière d'ambulance",
+	Recipe_Make_Vehicle_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_Vehicle_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_Vehicle_Reinforced_Front_Bumper = "Fabriquer Pare-chocs avant renforcé",
+	Recipe_Make_Vehicle_Side_Steps = "Fabriquer Marches latérales",
+	Recipe_Make_Windshield_Rear_Armor = "Fabriquer Blindage de pare-brise arrière",
 }
