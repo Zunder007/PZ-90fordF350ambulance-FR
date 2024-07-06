@@ -26,4 +26,17 @@ Recipes_FR = {
 	Recipe_Make_Vehicle_Reinforced_Front_Bumper = "Fabriquer Pare-chocs avant renforcé",
 	Recipe_Make_Vehicle_Side_Steps = "Fabriquer Marches latérales",
 	Recipe_Make_Windshield_Rear_Armor = "Fabriquer Blindage de pare-brise arrière",
+
+	Recipe_Make_90_Ford_F350_Bumper = "Fabriquer Pare-chocs",
+	Recipe_Make_90_Ford_F350_Double_Tires = "Fabriquer Pneus doubles",
+	Recipe_Make_90_Ford_F350_Front_Bullbar = "Fabriquer Pare-buffle avant",
+	Recipe_Make_90_Ford_F350_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_90_Ford_F350_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_90_Ford_F350_Reinforced_Front_Bumper = "Fabriquer Pare-chocs avant renforcé",
+	Recipe_Make_90_Ford_F350_Side_Steps = "Fabriquer Marches latérales",
+	Recipe_Make_90_Ford_F350_Tire = "Fabriquer Pneu",
+	Recipe_Make_90_Ford_F350_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+	Recipe_Make_90_Ford_F350_Windshield_Rear_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Repair_90_Ford_F350_Tire = "Réparer Pneu",
+	Recipe_Repair_90_Ford_F350_Tires = "Réparer Pneus doubles",
 }
