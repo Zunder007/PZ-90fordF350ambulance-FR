@@ -1,5 +1,6 @@
 IG_UI_FR = {
 	IGUI_VehicleName90fordF350ambulance = "'90 Ford F350 Ambulance"
+	IGUI_VehicleName90fordF350SWAT = "'90 Ford F350 S.W.A.T.",
 
 	IGUI_VehiclePartF350FrontBumper = "Pare-chocs avant",
 	IGUI_VehiclePartF350RearBumper = "Pare-chocs arrière",
